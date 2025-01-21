@@ -1,8 +1,26 @@
+background{
+    color: blanchedalmond;
+}
 h1{
     color: blue;
-    background: yellow;
+    background:lightblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
+}
+p{
+    border: 5px black dashed;
+    border-color: blueviolet;
+    border-width: 2px;
+    border-style: solid;
+}
+h2{
+    color: orange;
+    background: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5 px black solid;
+    border-color: burlywood;
+    border-width: 2px;
+    border-style: solid;
 }
